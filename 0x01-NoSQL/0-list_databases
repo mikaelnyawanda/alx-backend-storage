@@ -1,2 +1,2 @@
-// my comment
-mongo --quiet --eval "printjson(db.adminCommand('listDatabases'))"
+// 0-list_databases
+show dbs
